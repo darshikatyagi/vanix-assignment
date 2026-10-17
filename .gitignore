@@ -1,0 +1,19 @@
+﻿.env
+**/.env
+node_modules/
+**/node_modules/
+.dart_tool/
+**/.dart_tool/
+build/
+**/build/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+# Nested Git metadata
+mobile/.git
+
+# Expo generated files and dependencies
+mobile/node_modules/
+mobile/.expo/
+mobile/.claude/
